@@ -1,6 +1,6 @@
-@import "./global/global.css";
-@import "./global/header.css";
-@import "./global/footer.css";
+@import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/global/global.css";
+@import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/global/header.css";
+@import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/global/footer.css";
 
 @import "./utilidades/tipografia.css";
 @import "./utilidades/color.css";
