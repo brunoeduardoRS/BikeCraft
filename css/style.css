@@ -2,15 +2,15 @@
 @import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/global/header.css";
 @import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/global/footer.css";
 
-@import "./utilidades/tipografia.css";
-@import "./utilidades/color.css";
-@import "./utilidades/componentes.css";
+@import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/utilidades/tipografia.css";
+@import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/utilidades/color.css";
+@import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/utilidades/componentes.css";
 
 
-@import "./home/introducao.css";
-@import "./home/tecnologia.css";
-@import "./home/parceiros.css";
-@import "./home/depoimento.css";
+@import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/home/introducao.css";
+@import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/home/tecnologia.css";
+@import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/home/parceiros.css";
+@import "https://github.com/brunoeduardoRS/BikeCraft/tree/master/css/home/depoimento.css";
 
 @import "./seguros/seguros.css";
 
